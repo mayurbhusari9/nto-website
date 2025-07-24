@@ -31,7 +31,7 @@
     });
 
     // load Data Cloud Web SDK
-    loadScript('https://cdn.c360a.salesforce.com/beacon/c360a/8f974a60-0c27-4aaf-94bb-75d2f5b79f92/scripts/c360a.min.js', function() {
+    loadScript('https://cdn.c360a.salesforce.com/beacon/c360a/bcdc46ff-6de6-42a8-97e8-0e2b54da5e3f/scripts/c360a.min.js', function() {
         console.log('Data Cloud Web SDK has been loaded.'); 
     });
 
